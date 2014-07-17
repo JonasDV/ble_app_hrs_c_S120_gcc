@@ -2,7 +2,6 @@ ble_app_hrs_c_S120_gcc
 ======================
 
 a S120 example with gcc support (SDK v6.0.0 S120 v.1.0.0 production)
-==================
 
 This project contains code examples of the heart rate sensor central project ble_app_hrs_c built with gcc.
    
